@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harta</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Bye">Multumesc ca ai vizionat harta!</string>
+</resources>
